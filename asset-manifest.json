@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Karkulevskiy.github.io/weather/static/css/main.cc238dbe.css",
-    "main.js": "/Karkulevskiy.github.io/weather/static/js/main.d904bb6c.js",
-    "index.html": "/Karkulevskiy.github.io/weather/index.html",
-    "main.cc238dbe.css.map": "/Karkulevskiy.github.io/weather/static/css/main.cc238dbe.css.map",
-    "main.d904bb6c.js.map": "/Karkulevskiy.github.io/weather/static/js/main.d904bb6c.js.map"
+    "main.css": "/weather/static/css/main.cc238dbe.css",
+    "main.js": "/weather/static/js/main.901ba8ea.js",
+    "index.html": "/weather/index.html",
+    "main.cc238dbe.css.map": "/weather/static/css/main.cc238dbe.css.map",
+    "main.901ba8ea.js.map": "/weather/static/js/main.901ba8ea.js.map"
   },
   "entrypoints": [
     "static/css/main.cc238dbe.css",
-    "static/js/main.d904bb6c.js"
+    "static/js/main.901ba8ea.js"
   ]
 }
