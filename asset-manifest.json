@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Karkulevskiy.github.io/weather/static/css/main.cc238dbe.css",
+    "main.js": "/Karkulevskiy.github.io/weather/static/js/main.3f077723.js",
+    "index.html": "/Karkulevskiy.github.io/weather/index.html",
+    "main.cc238dbe.css.map": "/Karkulevskiy.github.io/weather/static/css/main.cc238dbe.css.map",
+    "main.3f077723.js.map": "/Karkulevskiy.github.io/weather/static/js/main.3f077723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc238dbe.css",
+    "static/js/main.3f077723.js"
+  ]
+}
