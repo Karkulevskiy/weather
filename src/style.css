@@ -7,7 +7,6 @@ body {
     padding: 20px;
 }
 
-/* Форма ввода города */
 #weather-form {
     display: flex;
     justify-content: center;
@@ -54,7 +53,6 @@ button:hover img {
     transform: scale(1.1);
 }
 
-/* Контейнер для виджетов */
 #widgets-container {
     display: flex;
     flex-wrap: wrap;
@@ -62,7 +60,6 @@ button:hover img {
     gap: 15px;
 }
 
-/* Виджет погоды */
 .md-card {
     background: rgba(255, 255, 255, 0.2);
     border-radius: 12px;
@@ -94,7 +91,6 @@ button:hover img {
     margin-bottom: 10px;
 }
 
-/* Кнопка удаления */
 .md-btn {
     background: white;
     color: #007acc;
@@ -112,25 +108,16 @@ button:hover img {
 
 .md-card-icon {
     width: 60px;
-    /* Размер картинки */
     height: 60px;
-    /* Размер картинки */
     object-fit: contain;
-    /* Сохраняет пропорции */
     border-radius: 20%;
-    /* Округлые края */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    /* Тень для глубины */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    /* Плавный переход */
 }
 
-/* Эффект при наведении */
 .md-card-icon:hover {
     transform: scale(1.1);
-    /* Увеличиваем картинку */
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-    /* Увеличиваем тень */
 }
 
 .forecast-widget {
@@ -149,7 +136,6 @@ button:hover img {
     border-bottom: none;
 }
 
-/* style.css */
 body.dark-theme {
     background: linear-gradient(to right, #1a1a1a, #333);
     color: white;
