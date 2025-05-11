@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#2193b0" />
     <title>Weather App</title>
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <base href="/">
   </head>
   <body>
-    <noscript>Для работы этого приложения требуется JavaScript.</noscript>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel" data-type="module">
+        import React from "https://esm.sh/react@19?dev";
+        import ReactDOM from "https://esm.sh/react-dom@19/client?dev";
+   </script>
     <div id="root"></div>
   </body>
 </html>
